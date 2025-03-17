@@ -58,7 +58,7 @@ This Discord Bot Pack helps you manage your server efficiently with useful comma
 
 ---
 
-🎯 **Support**: If you encounter issues, contact us via [Discord Support](https://discord.gg/yourserver)
+🎯 **Support**: If you encounter issues, contact us via [Discord Support](https://discord.gg/rUdkWJEGqD)
 
 🚀 **Enjoy your bot!**
 
