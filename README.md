@@ -25,7 +25,7 @@ This Discord Bot Pack helps you manage your server efficiently with useful comma
 1. Install [Node.js](https://nodejs.org/) (latest version)
 2. Open a terminal and run:
    ```bash
-   git clone https://github.com/yourrepo/discord-bot-pack.git
+   git clone https://github.com/tab4dev/bot-basic.git
    cd discord-bot-pack
    npm install
    ```
